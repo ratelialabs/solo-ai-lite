@@ -70,7 +70,7 @@ solo-ai-lite/
 ├── soloai_run_lite.py # Pipeline Lite complet
 │
 ├── README.md # Ce document
-└── LICENSE # LicenAPACHE 2.0IT)
+└── LICENSE # LicenAPACHE00IT)
 
 
 ---
