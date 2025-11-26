@@ -1,6 +1,6 @@
 
 
-
+----------------------------------------------------------------------------------------------------------
 <p align="center">
   <img src=assets/[RateliaLogo.png](https://github.com/ratelialabs/solo-ai-lite/blob/main/assets/RateliaLogo.png)" alt="Ratelia Labs logo" width="260">
 </p>
