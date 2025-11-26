@@ -1,10 +1,8 @@
 
 
+![Ratelia Labs logo](assets/RateliaLog.png)
 
-<p align="center">
-  <img src=assets/[RateliaLogo.png](https://github.com/ratelialabs/solo-ai-lite/blob/main/assets/RateliaLogo.png)" alt="Ratelia Labs logo" width="260">
-</p>
-___
+---
 
 # Solo-AI - Ratelia Labs
 # Copyright © 2025 Gilles C. Obellianne
