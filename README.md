@@ -1,5 +1,6 @@
 
 
+![Ratelia Labs Logo](assets/RateliaLogo.png)
 
 <p align="center">
   <img src=assets/RateliaLogo.png" alt="Ratelia Labs logo" width="260">
@@ -14,7 +15,7 @@ ___
 **Frugal Compute · Deterministic Agents · Adaptive Intelligence**  
 **Ratelia Labs — by Gilles C. Obellianne**
 
-![Ratelia Labs Logo](assets/RateliaLogo.png)
+
 
 ---
 
