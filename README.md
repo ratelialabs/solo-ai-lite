@@ -1,6 +1,6 @@
 
 
-![Ratelia Labs logo](assets/RateliaLog.png)
+![Ratelia Labs logo](assets/RateliaLogo.png)
 
 ---
 
