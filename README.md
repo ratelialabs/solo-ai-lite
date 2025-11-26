@@ -11,7 +11,7 @@ ___
 **Frugal Compute · Deterministic Agents · Adaptive Intelligence**  
 **Ratelia Labs — by Gilles C. Obellianne**
 
-![Ratelia Labs Logo](docs/RateliaLogo.png)
+![Ratelia Labs Logo](assets/RateliaLogo.png)
 
 ---
 
