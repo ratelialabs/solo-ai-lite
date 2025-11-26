@@ -2,6 +2,11 @@
 
 ![Ratelia Labs logo](assets/RateliaLogo.png)
 
+<p align="center">
+  <img
+src="https://raw.githubusercontent.com/ratelialabs/solo-ai-lite/main/assets/RateliaLogo.png" alt=Ratelia Labs logo" width="260">
+</p>
+
 ---
 
 # Solo-AI - Ratelia Labs
