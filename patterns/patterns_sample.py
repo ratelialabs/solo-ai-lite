@@ -1,3 +1,7 @@
+# Solo-AI - Ratelia Labs
+# Copyright © 2025 Gilles C. Obellianne
+# License: Apache 2.0
+
 """
 Solo-AI Lite — Pattern Detector (Mock)
 Ce fichier montre comment Solo-AI structure les patterns.

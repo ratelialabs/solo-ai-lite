@@ -1,3 +1,12 @@
+
+# Solo-AI - Ratelia Labs
+# Copyright © 2025 Gilles C. Obellianne
+# License: Apache 2.0
+
+
+
+
+
 """
 Solo-AI Lite — Sample Ingest
 Ce fichier simule l’ingestion de données marché.
