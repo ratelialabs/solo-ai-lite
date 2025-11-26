@@ -1,9 +1,8 @@
 
 
-![Ratelia Labs Logo](https://github.com/ratelialabs/solo-ai-lite/blob/main/assets/RateliaLogo.png)
 
 <p align="center">
-  <img src=assets/RateliaLogo.png" alt="Ratelia Labs logo" width="260">
+  <img src=assets/[RateliaLogo.png](https://github.com/ratelialabs/solo-ai-lite/blob/main/assets/RateliaLogo.png)" alt="Ratelia Labs logo" width="260">
 </p>
 ___
 
